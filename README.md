@@ -10,3 +10,9 @@ The original problem description can be accessed through the provided [link](htt
 ## Overview
 
 MIMPI is a C project developed for the Concurrent Programming course at the University of Warsaw, during the third semester of the 2023/2024 academic year. It implements a modified version of MPI, termed MIMPI. This project involves creating both a program for parallel computations and a library, following a provided specification.
+
+## Features
+
+- Developed system to manage multiple computations concurrently efficiently.
+- Implemented library to facilitate communication between processes including group functions.
+- Enhanced functionality with deadlock detection, efficient message handling, and tag conventions.
